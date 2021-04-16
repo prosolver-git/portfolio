@@ -30,7 +30,9 @@ function ImageSection() {
                         <p>: +91 99949 55796</p>
                     </div>
                 </div>
-                <button className="btn">Download Cv</button>
+                <a href="https://drive.google.com/file/d/1XtL8KoNwKeExDNzIvj0XAiOJ2KPTWSL0/view?usp=sharing">
+                    <button className="btn">Download Cv</button>
+                </a>
             </div>
         </div>
     )
